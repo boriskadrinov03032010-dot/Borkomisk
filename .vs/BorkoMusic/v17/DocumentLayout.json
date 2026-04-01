@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Students\\source\\repos\\boriskadrinov03032010-dot\\Borkomisk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373D68A7-B6FC-45C2-8C92-3E482DA27CA6}|BorkoMusic\\BorkoMusic.csproj|c:\\users\\students\\source\\repos\\boriskadrinov03032010-dot\\borkomisk\\borkomusic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{373D68A7-B6FC-45C2-8C92-3E482DA27CA6}|BorkoMusic\\BorkoMusic.csproj|solutionrelative:borkomusic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Students\\source\\repos\\boriskadrinov03032010-dot\\Borkomisk\\BorkoMusic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BorkoMusic\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Students\\source\\repos\\boriskadrinov03032010-dot\\Borkomisk\\BorkoMusic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BorkoMusic\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T05:13:05.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
