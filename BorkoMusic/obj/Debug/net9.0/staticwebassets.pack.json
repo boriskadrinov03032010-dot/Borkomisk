@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BorkoMusic.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BorkoMusic.0nl61e33eq.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Alisiq.jpg",
+      "PackagePath": "staticwebassets\\images\\Alisiq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Anelia.jpg",
+      "PackagePath": "staticwebassets\\images\\Anelia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\BorisDalijpg.jpg",
+      "PackagePath": "staticwebassets\\images\\BorisDalijpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Danna.jpg",
+      "PackagePath": "staticwebassets\\images\\Danna.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Desi Slava.jpg",
+      "PackagePath": "staticwebassets\\images\\Desi Slava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Desita.webp",
+      "PackagePath": "staticwebassets\\images\\Desita.webp"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Djena.jpg",
+      "PackagePath": "staticwebassets\\images\\Djena.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Emanyela.jpg",
+      "PackagePath": "staticwebassets\\images\\Emanyela.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Emiliq.jpg",
+      "PackagePath": "staticwebassets\\images\\Emiliq.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Emrah.jpg",
+      "PackagePath": "staticwebassets\\images\\Emrah.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Fiki.jpg",
+      "PackagePath": "staticwebassets\\images\\Fiki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\IlianBoyd.jpg",
+      "PackagePath": "staticwebassets\\images\\IlianBoyd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Ivaila.jpg",
+      "PackagePath": "staticwebassets\\images\\Ivaila.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Kiara.jpg",
+      "PackagePath": "staticwebassets\\images\\Kiara.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Lidia.jpg",
+      "PackagePath": "staticwebassets\\images\\Lidia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Malina.jpg",
+      "PackagePath": "staticwebassets\\images\\Malina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Preslava.jpg",
+      "PackagePath": "staticwebassets\\images\\Preslava.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Selina.jpg",
+      "PackagePath": "staticwebassets\\images\\Selina.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Simona.jpeg",
+      "PackagePath": "staticwebassets\\images\\Simona.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Sofi.webp",
+      "PackagePath": "staticwebassets\\images\\Sofi.webp"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\TedyAlexandrova.jpg",
+      "PackagePath": "staticwebassets\\images\\TedyAlexandrova.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\ToniStoraro.jpg",
+      "PackagePath": "staticwebassets\\images\\ToniStoraro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\TvetelinaYaneva.jpg",
+      "PackagePath": "staticwebassets\\images\\TvetelinaYaneva.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\Vanesa.jpg",
+      "PackagePath": "staticwebassets\\images\\Vanesa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\galena-album-cut.jpg",
+      "PackagePath": "staticwebassets\\images\\galena-album-cut.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\galena-euphoria-5-1024x740.jpg",
+      "PackagePath": "staticwebassets\\images\\galena-euphoria-5-1024x740.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\galena.jpg",
+      "PackagePath": "staticwebassets\\images\\galena.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\konstantin.webp",
+      "PackagePath": "staticwebassets\\images\\konstantin.webp"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\images\\mirela.jpg",
+      "PackagePath": "staticwebassets\\images\\mirela.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Students\\source\\repos\\BorkoMusic\\BorkoMusic\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BorkoMusic.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BorkoMusic.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BorkoMusic.props",
+      "PackagePath": "build\\BorkoMusic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BorkoMusic.props",
+      "PackagePath": "buildMultiTargeting\\BorkoMusic.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BorkoMusic.props",
+      "PackagePath": "buildTransitive\\BorkoMusic.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

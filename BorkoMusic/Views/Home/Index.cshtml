@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<Artist>
+
+<div class="container my-5">
+    <h1 class="text-center mb-4 fw-bold">Borko music</h1>
+    <div class="row g-4">
+        @foreach (var artist in @Model)
+        {
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="card shadow-sm border-0 h-100">
+                    <img src="@artist.Image" class="card-img-top rounded-top" alt="@artist.Name" style="height: 200px; object-fit: cover;">
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title text-primary fw-bold">@artist.Name</h5>
+                        <p class="card-text text-muted small">@artist.Album</p>
+                        <div class="mt-auto d-flex justify-content-between align-items-center">
+                            <span class="fw-semibold fs-5 text-success">@artist.Honorar.ToString("N2") лв.</span>
+                            @* <a href="@Url.Action("Details", "Product", new { id = artist.Id })" class="btn btn-outline-primary btn-sm">Детайли</a> *@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+
